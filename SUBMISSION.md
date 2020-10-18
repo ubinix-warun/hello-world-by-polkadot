@@ -30,3 +30,9 @@ node index.js
 
 ## Result
 https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/index.js
+
+
+# 4. [BEGINNER CHALLENGES] Play with Westend
+
+## Result SubScan with Remark!
+https://westend.subscan.io/extrinsic/2663817-2
