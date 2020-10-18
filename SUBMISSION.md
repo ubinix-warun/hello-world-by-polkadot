@@ -36,3 +36,23 @@ https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/index.js
 
 ## Result SubScan with Remark!
 https://westend.subscan.io/extrinsic/2663817-2
+
+
+# 5. [BEGINNER CHALLENGE] Launch a local Substrate development chain
+
+```
+./node-template --dev --tmp
+./yarn
+```
+
+## Result 
+![Image of REMARK.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_065.png)
+
+
+# TODO
+[ ] [BEGINNER CHALLENGES] Front-End Javascript https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940
+[ ] [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938
+
+# SUB!
+[ ] [BEGINNER CHALLENGE] Run a private Substrate network
+
