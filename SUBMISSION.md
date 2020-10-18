@@ -63,6 +63,9 @@ https://westend.subscan.io/extrinsic/2663817-2
 ```
 ./node-template --dev --tmp
 ./yarn
+
+ubinix-warun => 0x7562696E69782D776172756E
+
 ```
 
 ## Result 
