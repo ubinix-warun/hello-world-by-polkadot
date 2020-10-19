@@ -17,6 +17,18 @@
 - [ ] [BEGINNER CHALLENGE] Run a private Substrate network
 
 
+
+# 6. [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry
+
+```
+docker run -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-external --ws-external --wasm-execution=compiled
+```
+
+## Result
+![Image of My Node.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_068.png)
+
+
+
 ----------
 
 
