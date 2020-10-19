@@ -24,7 +24,11 @@
 aria2c -x 16 https://ipfs.io/ipfs/QmeKCZmWfB6691DqE3Wqt3zyBE5wn8N42kgqKqKEozECYv
 7z x QmeKCZmWfB6691DqE3Wqt3zyBE5wn8N42kgqKqKEozECYv
 
-docker run -v`pwd`/paritydb:/polkadot/.local/share/polkadot/chains/paritydb -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-external --ws-external --pruning=archive --db=paritydb --chain=kusama
+docker run -v`pwd`/paritydb:/polkadot/.local/share/polkadot/chains/polkadot/paritydb -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-external --ws-external --pruning=archive --db=paritydb --chain=kusama --wasm-execution=compiled
+
+/polkadot/.local/share/polkadot/chains/polkadot/db
+
+docker run -p 9944:9944 -v`pwd`/paritydb:/polkadot/.local/share/polkadot/chains/polkadot/paritydb parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-external --ws-external --wasm-execution=compiled
 
 docker run -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-external --ws-external --wasm-execution=compiled
 ```
