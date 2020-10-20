@@ -1,16 +1,33 @@
-# TODO (7/18) 
+# DONE (7/18) 
 
+- [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
+- [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
 - [x] [BEGINNER CHALLENGES] Back-End Javascript
-- [x] [BEGINNER CHALLENGE] Launch a local Substrate development chain
 - [x] [BEGINNER CHALLENGES] Play with Westend
-- [ ] [BEGINNER CHALLENGES] Front-End Javascript https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940
+- [x] [BEGINNER CHALLENGE] Launch a local Substrate development chain
 - [x] [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry
+- [x] [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain 
+
+# TODO
+- [ ] [BEGINNER CHALLENGES] Front-End Javascript https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940
 - [ ] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
 - [ ] [INTERMEDIATE CHALLENGE] Forkless Upgrades https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/6/100023932
-- [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
-- [x] [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain 
-- [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
+- [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934 
+- [ ] [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
+- [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/2/100023947
+- [ ] [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/3/100023962
+- [ ] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
+- [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
+- [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
+- [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
+
+# BIG-CARD
+- [ ] [ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/4/100023930
+- [ ] [ADVANCED CHALLENGE] REST APIs - Read an account's pending payouts https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931
+- [ ] [ADVANCED CHALLENGE] Smart Contracts - Build A Charity Raffle https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/3/100023929
+- [ ] [ADVANCED CHALLENGE] Build A DApp https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/2/100023928
+
 
 # INCOMPLETE!!!
 
