@@ -18,19 +18,21 @@
 
 
 
-# 6. [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry
+# 6. [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry (1Hr)
 
 ```
 aria2c -x 16 https://ipfs.io/ipfs/QmeKCZmWfB6691DqE3Wqt3zyBE5wn8N42kgqKqKEozECYv
-7z x QmeKCZmWfB6691DqE3Wqt3zyBE5wn8N42kgqKqKEozECYv
 
-docker run -v`pwd`/paritydb:/polkadot/.local/share/polkadot/chains/polkadot/paritydb -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-external --ws-external --pruning=archive --db=paritydb --chain=kusama --wasm-execution=compiled
+mkdir chains
+mkdir chains/ksmcc3
+7z x QmeKCZmWfB6691DqE3Wqt3zyBE5wn8N42kgqKqKEozECYv -o./chains/ksmcc3
 
-/polkadot/.local/share/polkadot/chains/polkadot/db
 
-docker run -p 9944:9944 -v`pwd`/paritydb:/polkadot/.local/share/polkadot/chains/polkadot/paritydb parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-external --ws-external --wasm-execution=compiled
+./polkadot --base-path=`pwd` --name "ubinix-warun" --rpc-external --ws-external --pruning=archive --db=paritydb --chain=kusama --wasm-execution=compiled
+
 
 docker run -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-external --ws-external --wasm-execution=compiled
+
 ```
 
 ## Result
