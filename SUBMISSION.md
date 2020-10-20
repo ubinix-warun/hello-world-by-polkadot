@@ -1,4 +1,4 @@
-# TODO (5/18) 
+# TODO (6/18) 
 
 - [x] [BEGINNER CHALLENGES] Back-End Javascript
 - [x] [BEGINNER CHALLENGE] Launch a local Substrate development chain
