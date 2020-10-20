@@ -1,4 +1,4 @@
-# TODO (6/18) 
+# TODO (7/18) 
 
 - [x] [BEGINNER CHALLENGES] Back-End Javascript
 - [x] [BEGINNER CHALLENGE] Launch a local Substrate development chain
@@ -9,7 +9,7 @@
 - [ ] [INTERMEDIATE CHALLENGE] Forkless Upgrades https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/6/100023932
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
-- [ ] [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/10/100023936
+- [x] [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain 
 - [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
 
 # INCOMPLETE!!!
@@ -91,3 +91,14 @@ docker run -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-exte
 
 ## Result
 ![Image of My Node.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_068.png)
+
+
+
+# 7. [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain
+
+```
+./polkadot --base-path=`pwd` --name "fushigidane66" --rpc-external --ws-external --dev
+```
+
+## Result
+![Image of My Iden.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_069.png)
