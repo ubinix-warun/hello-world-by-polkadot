@@ -4,7 +4,7 @@
 - [x] [BEGINNER CHALLENGE] Launch a local Substrate development chain
 - [x] [BEGINNER CHALLENGES] Play with Westend
 - [ ] [BEGINNER CHALLENGES] Front-End Javascript https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940
-- [ ] [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/12/100023938
+- [x] [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry
 - [ ] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
 - [ ] [INTERMEDIATE CHALLENGE] Forkless Upgrades https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/6/100023932
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
@@ -15,29 +15,6 @@
 # INCOMPLETE!!!
 
 - [ ] [BEGINNER CHALLENGE] Run a private Substrate network
-
-
-
-# 6. [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry (1Hr)
-
-```
-aria2c -x 16 https://ipfs.io/ipfs/QmeKCZmWfB6691DqE3Wqt3zyBE5wn8N42kgqKqKEozECYv
-
-mkdir chains
-mkdir chains/ksmcc3
-7z x QmeKCZmWfB6691DqE3Wqt3zyBE5wn8N42kgqKqKEozECYv -o./chains/ksmcc3
-
-
-./polkadot --base-path=`pwd` --name "ubinix-warun" --rpc-external --ws-external --pruning=archive --db=paritydb --chain=kusama --wasm-execution=compiled
-
-
-docker run -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-external --ws-external --wasm-execution=compiled
-
-```
-
-## Result
-![Image of My Node.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_068.png)
-
 
 
 ----------
@@ -94,3 +71,23 @@ ubinix-warun => 0x7562696E69782D776172756E
 ## Result 
 ![Image of REMARK.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_065.png)
 
+
+# 6. [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry (1Hr)
+
+```
+aria2c -x 16 https://ipfs.io/ipfs/QmeKCZmWfB6691DqE3Wqt3zyBE5wn8N42kgqKqKEozECYv
+
+mkdir chains
+mkdir chains/ksmcc3
+7z x QmeKCZmWfB6691DqE3Wqt3zyBE5wn8N42kgqKqKEozECYv -o./chains/ksmcc3
+
+
+./polkadot --base-path=`pwd` --name "ubinix-warun" --rpc-external --ws-external --pruning=archive --db=paritydb --chain=kusama --wasm-execution=compiled
+
+
+docker run -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-external --ws-external --wasm-execution=compiled
+
+```
+
+## Result
+![Image of My Node.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_068.png)
