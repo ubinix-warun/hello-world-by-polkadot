@@ -130,8 +130,8 @@ yarn add @polkadot/util
 yarn && yarn serve --port 8081
 ```
 
-Web:https://ubinix-warun.github.io/polkadash/
-Ref:https://github.com/ubinix-warun/polkadash/tree/pages
+* Web:https://ubinix-warun.github.io/polkadash/
+* Ref:https://github.com/ubinix-warun/polkadash/tree/pages
 
 ## Result
 ![Image of My LastBlock.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_070.png)
