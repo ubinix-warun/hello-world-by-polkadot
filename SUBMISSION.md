@@ -130,6 +130,7 @@ yarn add @polkadot/util
 yarn && yarn serve --port 8081
 ```
 
+Web:https://ubinix-warun.github.io/polkadash/
 Ref:https://github.com/ubinix-warun/polkadash/tree/pages
 
 ## Result
