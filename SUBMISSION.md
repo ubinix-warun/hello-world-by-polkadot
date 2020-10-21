@@ -1,4 +1,4 @@
-# DONE (7/18) 
+# DONE (8/18) 
 
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
@@ -7,9 +7,9 @@
 - [x] [BEGINNER CHALLENGE] Launch a local Substrate development chain
 - [x] [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry
 - [x] [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain 
+- [x] [BEGINNER CHALLENGES] Front-End Javascript
 
 # TODO
-- [ ] [BEGINNER CHALLENGES] Front-End Javascript https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940
 - [ ] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
 - [ ] [INTERMEDIATE CHALLENGE] Forkless Upgrades https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/6/100023932
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
@@ -119,3 +119,19 @@ docker run -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-exte
 
 ## Result
 ![Image of My Iden.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_069.png)
+
+
+# 8. [BEGINNER CHALLENGES] Front-End Javascript
+
+```
+yarn add @polkadot/api
+yarn add @polkadot/util
+
+yarn && yarn serve --port 8081
+```
+
+## Result
+![Image of My Iden.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_070.png)
+
+
+- [x] [BEGINNER CHALLENGES] Front-End Javascript
