@@ -1,4 +1,4 @@
-# DONE (9/18) 
+# DONE (11/18) 
 
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
@@ -9,15 +9,15 @@
 - [x] [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain 
 - [x] [BEGINNER CHALLENGES] Front-End Javascript
 - [x] [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam 
+- [x] [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network 
+- [ ] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
 
 # TODO
 - [ ] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
 - [ ] [INTERMEDIATE CHALLENGE] Forkless Upgrades https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/6/100023932
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934 
-- [ ] [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
 - [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/2/100023947
-- [ ] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
 - [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
 - [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
 - [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
@@ -32,6 +32,19 @@
 # INCOMPLETE!!!
 
 - [ ] [BEGINNER CHALLENGE] Run a private Substrate network
+
+
+# INPROGRESS!!!
+
+
+
+# 11. [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
+
+https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
+
+```
+
+```
 
 
 ----------
@@ -154,4 +167,22 @@ Deploy an ERC20 token onto Moonbase Alpha
 * checkContract: 0xd5b832aC7e357770272e319C52A26CBfA4D6C50a
 * sol. https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/MyToken.sol
 
+
+# 10. [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network
+
+```
+./target/release/phala-node --dev
+cd pruntime/bin
+./app
+./target/release/phost --dev
+
+yarn
+yarn dev
+```
+
+## Result
+
+![Image of My Server.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_72.jpeg)
+![Image of My Server.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_73.png)
+![Image of My Server.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_74.png)
 
