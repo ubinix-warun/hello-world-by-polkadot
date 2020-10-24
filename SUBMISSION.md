@@ -1,4 +1,4 @@
-# DONE (8/18) 
+# DONE (9/18) 
 
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
@@ -8,6 +8,7 @@
 - [x] [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry
 - [x] [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain 
 - [x] [BEGINNER CHALLENGES] Front-End Javascript
+- [x] [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam 
 
 # TODO
 - [ ] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
@@ -16,7 +17,6 @@
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934 
 - [ ] [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
 - [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/2/100023947
-- [ ] [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/3/100023962
 - [ ] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
 - [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
 - [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
@@ -32,14 +32,6 @@
 # INCOMPLETE!!!
 
 - [ ] [BEGINNER CHALLENGE] Run a private Substrate network
-
-
-```
-
-Moonbeam Alpha (Testnet) 
-!faucet send 0x7fDa18fd4224b81563cab062c7f8D235c39edc58
-
-```
 
 
 ----------
@@ -143,5 +135,23 @@ yarn && yarn serve --port 8081
 
 ## Result
 ![Image of My LastBlock.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_070.png)
+
+
+
+# 9. [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam 
+
+```
+
+Moonbeam Alpha (Testnet) 
+!faucet send 0x7fDa18fd4224b81563cab062c7f8D235c39edc58
+
+Deploy an ERC20 token onto Moonbase Alpha
+
+```
+
+## Result
+
+* checkContract: 0xd5b832aC7e357770272e319C52A26CBfA4D6C50a
+* sol. https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/MyToken.sol
 
 
