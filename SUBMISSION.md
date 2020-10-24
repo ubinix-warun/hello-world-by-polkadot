@@ -34,6 +34,14 @@
 - [ ] [BEGINNER CHALLENGE] Run a private Substrate network
 
 
+```
+
+Moonbeam Alpha (Testnet) 
+!faucet send 0x7fDa18fd4224b81563cab062c7f8D235c39edc58
+
+```
+
+
 ----------
 
 
