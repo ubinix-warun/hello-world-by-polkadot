@@ -10,17 +10,20 @@
 - [x] [BEGINNER CHALLENGES] Front-End Javascript
 - [x] [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam 
 - [x] [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network 
+- [x] [INTERMEDIATE CHALLENGE] Forkless Upgrades 
+- [ ] [INTERMEDIATE CHALLENGE] FRAME Development 
+- [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
 - [ ] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
+- [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
 
 # TODO
 - [ ] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
-- [ ] [INTERMEDIATE CHALLENGE] Forkless Upgrades https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/6/100023932
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934 
 - [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/2/100023947
 - [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
 - [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
-- [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
+
 
 # BIG-CARD
 - [ ] [ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/4/100023930
@@ -37,6 +40,31 @@
 # INPROGRESS!!!
 
 
+# 12. [INTERMEDIATE CHALLENGE] FRAME Development 
+
+https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
+
+```
+
+```
+
+
+# 12. [INTERMEDIATE CHALLENGE] FRAME Multisig 
+
+https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934 
+
+```
+
+```
+
+
+# 13. [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
+
+https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
+
+```
+
+```
 
 # 11. [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
 
@@ -186,3 +214,17 @@ yarn dev
 ![Image of My Server.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_73.png)
 ![Image of My Server.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_74.png)
 
+
+
+# 11. [INTERMEDIATE CHALLENGE] Forkless Upgrades 
+
+```
+target/release/wbuild/node-template-runtime/node_template_runtime.compact.wasm
+
+SpecName: ubinit-warun
+SpecVersion: 2
+
+```
+
+## Result
+![Image of My Forkless.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_075.png)
