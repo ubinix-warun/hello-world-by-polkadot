@@ -18,6 +18,12 @@
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
 - [ ] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 
+
+# SKIP
+
+- x [BEGINNER CHALLENGE] Run a private Substrate network
+
+
 # TODO
 - [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
 - [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
@@ -29,10 +35,6 @@
 - [ ] [ADVANCED CHALLENGE] Smart Contracts - Build A Charity Raffle https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/3/100023929
 - [ ] [ADVANCED CHALLENGE] Build A DApp https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/2/100023928
 
-
-# NON-SUBMISSION
-
-- x [BEGINNER CHALLENGE] Run a private Substrate network
 
 
 # INPROGRESS!!!
