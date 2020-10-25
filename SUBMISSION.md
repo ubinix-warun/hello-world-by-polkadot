@@ -233,8 +233,6 @@ SpecVersion: 2
 
 # 12. [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
 
-https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
-
 ```
 node_modules/.bin/truffle compile
 
