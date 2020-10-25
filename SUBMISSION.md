@@ -30,9 +30,9 @@
 - [ ] [ADVANCED CHALLENGE] Build A DApp https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/2/100023928
 
 
-# INCOMPLETE!!!
+# NON-SUBMISSION
 
-- [ ] [BEGINNER CHALLENGE] Run a private Substrate network
+- x [BEGINNER CHALLENGE] Run a private Substrate network
 
 
 # INPROGRESS!!!
