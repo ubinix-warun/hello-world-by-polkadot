@@ -11,16 +11,14 @@
 - [x] [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam 
 - [x] [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network 
 - [x] [INTERMEDIATE CHALLENGE] Forkless Upgrades 
+- [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
+- [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
+- [ ] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
-- [ ] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
-- [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
+- [ ] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 
 # TODO
-- [ ] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
-- [ ] [INTERMEDIATE CHALLENGE] FRAME Development https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
-- [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934 
-- [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/2/100023947
 - [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
 - [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
 
@@ -35,30 +33,19 @@
 # INCOMPLETE!!!
 
 - [ ] [BEGINNER CHALLENGE] Run a private Substrate network
+- [ ] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
 
 
 # INPROGRESS!!!
 
 
-# 12. [INTERMEDIATE CHALLENGE] FRAME Development 
+# 1x. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
-https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
-
-```
-
-```
+https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/2/100023947
 
 
-# 12. [INTERMEDIATE CHALLENGE] FRAME Multisig 
 
-https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934 
-
-```
-
-```
-
-
-# 13. [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
+# 1x. [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
 
 https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
 
@@ -66,9 +53,32 @@ https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
 
 ```
 
-# 11. [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
+# 1x. [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
 
 https://gitcoin.co/issue/PureStake/gitcoin-hello-world-by-moonbeam/1/100023953
+
+```
+
+```
+
+
+# 1x. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
+
+https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
+
+
+
+# 1x. [INTERMEDIATE CHALLENGE] FRAME Multisig 
+
+https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934 
+
+```
+
+```
+
+# 1x. [INTERMEDIATE CHALLENGE] FRAME Development 
+
+https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
 
 ```
 
