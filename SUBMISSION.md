@@ -316,6 +316,6 @@ Summary
 
 ## Result
 * Submit Result: https://gist.githubusercontent.com/ubinix-warun/b30a12084c5802013eb1c58cc575d680/raw/9b1910fea5efa5468ee40fbc48a717e55d9fab14/hackathon-deploy-on-moonbase-alpha-using-truffle-fixed.txt
-* account, 0xbd0aA4F6eFa3c4CCc6BD48DAB1296E9F0c18E4fc
-* contract address: 0xC44421E62af16D88B6ad1B759EF88E9A661393C4
+* migration address, 0xFcd2D31067B780137Fd0cF6341A62457839e47Ff
+* token contract address: 0xb8543E0Cc29C4f44f2b4627320F34100C25bf0A2
 
