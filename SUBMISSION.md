@@ -295,7 +295,7 @@ Summary
 ```
 
 ## Result
-* Submit Result: https://gist.githubusercontent.com/ubinix-warun/4a13c127e8ea9aa2af65d36f66930a41/raw/c3421820a2983928bab2aef1a6cf1a1f59cb4454/hackathon-deploy-on-moonbase-alpha-using-truffle.txt
+* Submit Result: https://gist.githubusercontent.com/ubinix-warun/b30a12084c5802013eb1c58cc575d680/raw/9b1910fea5efa5468ee40fbc48a717e55d9fab14/hackathon-deploy-on-moonbase-alpha-using-truffle-fixed.txt
 * account, 0xbd0aA4F6eFa3c4CCc6BD48DAB1296E9F0c18E4fc
 * contract address: 0xC44421E62af16D88B6ad1B759EF88E9A661393C4
 
