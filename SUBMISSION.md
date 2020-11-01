@@ -12,11 +12,11 @@
 - [x] [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network 
 - [x] [INTERMEDIATE CHALLENGE] Forkless Upgrades 
 - [x] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
-- [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
+- [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 - [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
-- [ ] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
+- [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
 
 
 # SKIP
@@ -40,6 +40,24 @@
 # INPROGRESS!!!
 
 
+# 13. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
+
+
+```
+cargo contract new tuna20
+
+cargo +nightly test
+cargo +nightly contract build
+cargo +nightly contract generate-metadata
+
+```
+## Result
+![Image of WASM.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_075.png)
+
+Source WASM: https://github.com/ubinix-warun/hello-world-by-polkadot/tree/main/smart-contract-with-ink
+
+
+
 # 1x. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
 https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/2/100023947
@@ -53,12 +71,6 @@ https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
 ```
 
 ```
-
-
-# 1x. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
-
-https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/9/100023935
-
 
 
 # 1x. [INTERMEDIATE CHALLENGE] FRAME Multisig 
