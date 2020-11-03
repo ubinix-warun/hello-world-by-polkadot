@@ -1,4 +1,4 @@
-# DONE (12/18) 
+# DONE (14/18+) 
 
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
@@ -11,12 +11,12 @@
 - [x] [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam 
 - [x] [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network 
 - [x] [INTERMEDIATE CHALLENGE] Forkless Upgrades 
-- [x] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
+- [x] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle (Second Submit)
+- [x] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
 - [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
-- [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
-- [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
+- [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
 
 # SKIP
@@ -25,7 +25,6 @@
 
 
 # TODO
-- [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
 - [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
 
 
@@ -39,8 +38,12 @@
 
 # INPROGRESS!!!
 
+# 13. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
-# 13. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
+Source: https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/auction.sol
+
+
+# 14. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
 
 
 ```
@@ -55,13 +58,7 @@ cargo +nightly contract generate-metadata
 ![Image of WASM.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_075.png)
 
 Source WASM: https://github.com/ubinix-warun/hello-world-by-polkadot/tree/main/smart-contract-with-ink
-
-
-
-# 1x. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
-
-https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/2/100023947
-
+Canvas UI:
 
 
 # 1x. [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
