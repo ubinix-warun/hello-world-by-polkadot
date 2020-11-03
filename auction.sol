@@ -120,4 +120,4 @@ contract SimpleAuction {
         // 3. Interaction
         beneficiary.transfer(highestBid);
     }
-
+}
