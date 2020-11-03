@@ -12,11 +12,11 @@
 - [x] [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network 
 - [x] [INTERMEDIATE CHALLENGE] Forkless Upgrades 
 - [x] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle (Second Submit)
-- [x] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
+- [x] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 - [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
-- [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
+- [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
 
 
 # SKIP
@@ -25,6 +25,7 @@
 
 
 # TODO
+- [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
 - [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
 
 
