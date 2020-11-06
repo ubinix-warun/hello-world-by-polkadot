@@ -13,21 +13,14 @@
 - [x] [INTERMEDIATE CHALLENGE] Forkless Upgrades 
 - [x] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle (Second Submit)
 - [x] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support 
-------------------------------------------------------------------------------------------
+- [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
+
+# TODO
 - [x] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 - [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
 - [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
-
-# SKIP
-
-- x [BEGINNER CHALLENGE] Run a private Substrate network
-
-
-# TODO
-- [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
-
 
 # BIG-CARD
 - [ ] [ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/4/100023930
@@ -36,8 +29,22 @@
 - [ ] [ADVANCED CHALLENGE] Build A DApp https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/2/100023928
 
 
+# BYE!
 
-# INPROGRESS!!!
+- x [BEGINNER CHALLENGE] Run a private Substrate network
+
+# SKETCH!!!
+
+
+# 1x. [INTERMEDIATE CHALLENGE] Enable NFT Support 
+
+https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
+
+```
+
+```
+
+
 
 # 14. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
