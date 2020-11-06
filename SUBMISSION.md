@@ -1,4 +1,4 @@
-# DONE (14/18+) 
+# DONE (15/18+) 
 
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
@@ -12,12 +12,13 @@
 - [x] [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network 
 - [x] [INTERMEDIATE CHALLENGE] Forkless Upgrades 
 - [x] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle (Second Submit)
+- [x] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support 
+------------------------------------------------------------------------------------------
 - [x] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 - [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
 - [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
-- [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support 
 
 # SKIP
 
@@ -38,12 +39,12 @@
 
 # INPROGRESS!!!
 
-# 13. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
+# 14. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
 Source: https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/auction.sol
 
 
-# 14. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
+# 15. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
 
 
 ```
@@ -85,15 +86,6 @@ https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
 ```
 
 ```
-
-
-# 1x. [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
-
-
-```
-
-```
-
 
 ----------
 
@@ -335,4 +327,23 @@ Summary
 * Submit Result: https://gist.githubusercontent.com/ubinix-warun/b30a12084c5802013eb1c58cc575d680/raw/9b1910fea5efa5468ee40fbc48a717e55d9fab14/hackathon-deploy-on-moonbase-alpha-using-truffle-fixed.txt
 * migration address, 0xFcd2D31067B780137Fd0cF6341A62457839e47Ff
 * token contract address: 0xb8543E0Cc29C4f44f2b4627320F34100C25bf0A2
+
+
+# 13. [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
+
+
+```
+./node-template --dev --tmp
+
+add types.json on polkadot.js/apps
+
+```
+## Result
+![Server](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_076.png)
+![Server](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_077.png)
+
+* My Code on Branch https://github.com/ubinix-warun/substrate-node-template/commits/add-orml-token-currency-pallet
+   * ADD: Token/Currency => Exchange! https://github.com/ubinix-warun/substrate-node-template/commit/e3fe5788a3640af794c5ad92bdcc1ecd5aa11627
+   * ADD TYPE => https://github.com/ubinix-warun/substrate-node-template/commit/81bc88df62a3f4c114c36e3422a1740b384107f8
+
 
