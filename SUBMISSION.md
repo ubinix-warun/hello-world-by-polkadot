@@ -17,7 +17,7 @@
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
 - [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
-
+- [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support 
 
 # SKIP
 
@@ -25,7 +25,6 @@
 
 
 # TODO
-- [ ] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
 - [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
 
 
@@ -82,6 +81,14 @@ https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934
 # 1x. [INTERMEDIATE CHALLENGE] FRAME Development 
 
 https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/7/100023933
+
+```
+
+```
+
+
+# 1x. [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
+
 
 ```
 
