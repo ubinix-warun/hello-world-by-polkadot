@@ -1,4 +1,4 @@
-# DONE (15/18+) 
+# DONE (15/19) 
 
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
@@ -13,14 +13,15 @@
 - [x] [INTERMEDIATE CHALLENGE] Forkless Upgrades 
 - [x] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle (Second Submit)
 - [x] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support 
-- [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
+- [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support 
+- [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
 # TODO
-- [x] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
+- [x] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
 - [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
-- [ ] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
+
 
 # BIG-CARD
 - [ ] [ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/4/100023930
@@ -44,11 +45,13 @@ https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
 
 ```
 
-
-
 # 14. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
-Source: https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/auction.sol
+
+```
+
+
+```
 
 
 # 15. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
@@ -76,6 +79,9 @@ https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
 ```
 
 ```
+
+Source: https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/auction.sol
+
 
 
 # 1x. [INTERMEDIATE CHALLENGE] FRAME Multisig 
