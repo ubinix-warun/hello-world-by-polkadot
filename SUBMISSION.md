@@ -333,8 +333,7 @@ Summary
 * token contract address: 0xb8543E0Cc29C4f44f2b4627320F34100C25bf0A2
 
 
-# 13. [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/2/100023952
-
+# 13. [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support 
 
 ```
 ./node-template --dev --tmp
