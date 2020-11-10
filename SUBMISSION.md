@@ -354,12 +354,13 @@ add types.json on polkadot.js/apps
 
 ```
 ./node-template --dev --tmp
-open chain-state!
+open chain-state! & Minted!
 
 ```
 
 ## Result
 ![Image of NFT.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_078.png)
+![Image of NFT.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_079.png)
 Source: https://github.com/ubinix-warun/substrate-node-template/tree/add-nft-pallet
 
 
