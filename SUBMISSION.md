@@ -13,7 +13,7 @@
 - [x] [INTERMEDIATE CHALLENGE] Forkless Upgrades 
 - [x] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle (Second Submit)
 - [x] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support 
-- [ ] [ECOSYSTEM CHALLENGE] Enable NFT Support 
+- [x] [ECOSYSTEM CHALLENGE] Enable NFT Support 
 - [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
 # TODO
@@ -35,15 +35,6 @@
 - x [BEGINNER CHALLENGE] Run a private Substrate network
 
 # SKETCH!!!
-
-
-# 1x. [INTERMEDIATE CHALLENGE] Enable NFT Support 
-
-https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
-
-```
-
-```
 
 # 14. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
@@ -358,5 +349,20 @@ add types.json on polkadot.js/apps
 * My Code on Branch https://github.com/ubinix-warun/substrate-node-template/commits/add-orml-token-currency-pallet
    * ADD: Token/Currency => Exchange! https://github.com/ubinix-warun/substrate-node-template/commit/e3fe5788a3640af794c5ad92bdcc1ecd5aa11627
    * ADD TYPE => https://github.com/ubinix-warun/substrate-node-template/commit/81bc88df62a3f4c114c36e3422a1740b384107f8
+
+
+# 14. [INTERMEDIATE CHALLENGE] Enable NFT Support 
+
+https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
+
+```
+./node-template --dev --tmp
+open chain-state!
+
+```
+
+## Result
+![Image of NFT.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_078.png)
+Source: https://github.com/ubinix-warun/substrate-node-template/tree/add-nft-pallet
 
 
