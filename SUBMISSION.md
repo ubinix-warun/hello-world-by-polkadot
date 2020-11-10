@@ -353,8 +353,6 @@ add types.json on polkadot.js/apps
 
 # 14. [INTERMEDIATE CHALLENGE] Enable NFT Support 
 
-https://gitcoin.co/issue/AcalaNetwork/polakdot-hello-world-acala/1/100023951
-
 ```
 ./node-template --dev --tmp
 open chain-state!
