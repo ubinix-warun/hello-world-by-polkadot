@@ -13,12 +13,12 @@
 - [x] [INTERMEDIATE CHALLENGE] Forkless Upgrades 
 - [x] [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle (Second Submit)
 - [x] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support 
-- [x] [ECOSYSTEM CHALLENGE] Enable NFT Support 
 - [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
 # TODO
 - [x] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
 - [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
+- [x] [ECOSYSTEM CHALLENGE] Enable NFT Support 🔥
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
 
