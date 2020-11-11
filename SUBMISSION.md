@@ -1,4 +1,4 @@
-# DONE (16/19) 
+# DONE (15/19) 
 
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
@@ -367,6 +367,6 @@ open front, call pallet! tunaLedger
 ## Result
 ![Image of Tuna.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_080.png)
 Source Node: https://github.com/ubinix-warun/substrate-node-template/tree/frame-development
-Source Front: https://github.com/ubinix-warun/substrate-front-template/tree/frame-development
+Source Front: https://github.com/ubinix-warun/substrate-front-end-template/tree/frame-development
 
 
