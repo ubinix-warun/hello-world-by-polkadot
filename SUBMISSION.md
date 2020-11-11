@@ -430,10 +430,15 @@ cargo +nightly contract generate-metadata
 ![Image of Upload.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_084x.png)
 ![Image of Uploaded.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_085x.png)
 ![Image of Deploy.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_086x.png)
+![Image of UseUI.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_087.png)
 
 * Source WASM: https://github.com/ubinix-warun/hello-world-by-polkadot/tree/main/smart-contract-with-ink
 * Node: https://github.com/ubinix-warun/substrate-node-template/tree/add-contracts-pallet
 * Front End: https://github.com/ubinix-warun/substrate-front-end-template/tree/add-contracts-pallet
+
+
+--------------------------------------------------
+
 
 
 
