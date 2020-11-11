@@ -73,6 +73,9 @@ docker run -p 9944:9944 parity/polkadot:v0.8.24 --name "pikaju66" --rpc-external
 ![Image of My Iden.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_067_A.png)
 
 
+--------------------------------------------------
+
+
 
 # 2. [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
 
@@ -85,6 +88,9 @@ docker run --rm -it -v /local/path:/sources hyperledgerlabs/solang -o /sources /
 
 
 
+--------------------------------------------------
+
+
 # 3. [BEGINNER CHALLENGES] Back-End Javascript
 
 ```
@@ -95,11 +101,17 @@ node index.js
 https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/index.js
 
 
+--------------------------------------------------
+
+
 # 4. [BEGINNER CHALLENGES] Play with Westend
 
 ## Result SubScan with Remark!
 https://westend.subscan.io/extrinsic/2663817-2
 
+
+
+--------------------------------------------------
 
 # 5. [BEGINNER CHALLENGE] Launch a local Substrate development chain
 
@@ -113,6 +125,10 @@ ubinix-warun => 0x7562696E69782D776172756E
 
 ## Result 
 ![Image of REMARK.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_065.png)
+
+
+
+--------------------------------------------------
 
 
 # 6. [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry (1Hr)
@@ -136,6 +152,8 @@ docker run -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-exte
 ![Image of My Node.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_068.png)
 
 
+--------------------------------------------------
+
 
 # 7. [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain
 
@@ -145,6 +163,9 @@ docker run -p 9944:9944 parity/polkadot:v0.8.24 --name "ubinix-warun" --rpc-exte
 
 ## Result
 ![Image of My Iden.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_069.png)
+
+
+--------------------------------------------------
 
 
 # 8. [BEGINNER CHALLENGES] Front-End Javascript
@@ -164,6 +185,9 @@ yarn && yarn serve --port 8081
 
 
 
+--------------------------------------------------
+
+
 # 9. [ECOSYSTEM CHALLENGE] Using Remix And MetaMask On Moonbeam 
 
 ```
@@ -179,6 +203,12 @@ Deploy an ERC20 token onto Moonbase Alpha
 
 * checkContract: 0xd5b832aC7e357770272e319C52A26CBfA4D6C50a
 * sol. https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/MyToken.sol
+
+
+--------------------------------------------------
+
+
+--------------------------------------------------
 
 
 # 10. [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network
@@ -201,6 +231,9 @@ yarn dev
 
 
 
+--------------------------------------------------
+
+
 # 11. [INTERMEDIATE CHALLENGE] Forkless Upgrades 
 
 ```
@@ -213,6 +246,11 @@ SpecVersion: 2
 
 ## Result
 ![Image of My Forkless.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_075.png)
+
+
+
+--------------------------------------------------
+
 
 
 # 12. [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
@@ -302,6 +340,9 @@ Summary
 * token contract address: 0xb8543E0Cc29C4f44f2b4627320F34100C25bf0A2
 
 
+--------------------------------------------------
+
+
 # 13. [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support 
 
 ```
@@ -319,6 +360,9 @@ add types.json on polkadot.js/apps
    * ADD TYPE => https://github.com/ubinix-warun/substrate-node-template/commit/81bc88df62a3f4c114c36e3422a1740b384107f8
 
 
+--------------------------------------------------
+
+
 # 14. [INTERMEDIATE CHALLENGE] Enable NFT Support 
 
 ```
@@ -332,6 +376,10 @@ open chain-state! & Minted!
 ![Image of NFT.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_079.png)
 * Source: https://github.com/ubinix-warun/substrate-node-template/tree/add-nft-pallet
 
+
+--------------------------------------------------
+
+
 # 15. [INTERMEDIATE CHALLENGE] FRAME Development 
 
 ```
@@ -344,6 +392,9 @@ open front, call pallet! tunaLedger
 ![Image of Tuna.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_080.png)
 * Source Node: https://github.com/ubinix-warun/substrate-node-template/tree/frame-development
 * Source Front: https://github.com/ubinix-warun/substrate-front-end-template/tree/frame-development
+
+
+--------------------------------------------------
 
 
 # 16. [INTERMEDIATE CHALLENGE] FRAME Multisig 
@@ -360,6 +411,9 @@ open front, call pallet! tunaLedger
 * Source Front: https://github.com/ubinix-warun/substrate-front-end-template/tree/add-multisig-pallet
 
 
+--------------------------------------------------
+
+
 # 17. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
 
 
@@ -372,9 +426,17 @@ cargo +nightly contract generate-metadata
 
 ```
 ## Result
-![Image of WASM.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_075.png)
+![Image of RUN.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_083x.png)
+![Image of Upload.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_084x.png)
+![Image of Uploaded.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_085x.png)
+![Image of Deploy.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_086x.png)
 
 * Source WASM: https://github.com/ubinix-warun/hello-world-by-polkadot/tree/main/smart-contract-with-ink
 * Node: https://github.com/ubinix-warun/substrate-node-template/tree/add-contracts-pallet
 * Front End: https://github.com/ubinix-warun/substrate-front-end-template/tree/add-contracts-pallet
+
+
+
+
+
 
