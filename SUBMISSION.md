@@ -1,4 +1,4 @@
-# DONE (16/19) 
+# DONE (17/19) 
 
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
@@ -16,11 +16,11 @@
 - [x] [ECOSYSTEM CHALLENGE] Enable NFT Support 🔥
 - [x] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [x] [INTERMEDIATE CHALLENGE] FRAME Multisig
+- [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 - [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
 # TODO
 - [x] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
-- [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
 
 
 # BIG-CARD
@@ -45,22 +45,6 @@
 ```
 
 
-# 15. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
-
-
-```
-cargo contract new tuna20
-
-cargo +nightly test
-cargo +nightly contract build
-cargo +nightly contract generate-metadata
-
-```
-## Result
-![Image of WASM.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_075.png)
-
-Source WASM: https://github.com/ubinix-warun/hello-world-by-polkadot/tree/main/smart-contract-with-ink
-Canvas UI:
 
 
 # 1x. [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
@@ -374,3 +358,23 @@ open front, call pallet! tunaLedger
 ![Image of Tuna.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_082.png)
 * Source Node: https://github.com/ubinix-warun/substrate-node-template/tree/add-multisig-pallet
 * Source Front: https://github.com/ubinix-warun/substrate-front-end-template/tree/add-multisig-pallet
+
+
+# 17. [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink! 
+
+
+```
+cargo contract new tuna20
+
+cargo +nightly test
+cargo +nightly contract build
+cargo +nightly contract generate-metadata
+
+```
+## Result
+![Image of WASM.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_075.png)
+
+* Source WASM: https://github.com/ubinix-warun/hello-world-by-polkadot/tree/main/smart-contract-with-ink
+* Node: https://github.com/ubinix-warun/substrate-node-template/tree/add-contracts-pallet
+* Front End: https://github.com/ubinix-warun/substrate-front-end-template/tree/add-contracts-pallet
+
