@@ -15,12 +15,12 @@
 - [x] [ECOSYSTEM CHALLENGE] Enable Multi-Currency Support 
 - [x] [ECOSYSTEM CHALLENGE] Enable NFT Support 🔥
 - [x] [INTERMEDIATE CHALLENGE] FRAME Development 
+- [x] [INTERMEDIATE CHALLENGE] FRAME Multisig
 - [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
 # TODO
 - [x] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
 - [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
-- [ ] [INTERMEDIATE CHALLENGE] FRAME Multisig
 
 
 # BIG-CARD
@@ -74,14 +74,6 @@ https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
 Source: https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/auction.sol
 
 
-
-# 1x. [INTERMEDIATE CHALLENGE] FRAME Multisig 
-
-https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/8/100023934 
-
-```
-
-```
 
 
 ----------
@@ -354,7 +346,7 @@ open chain-state! & Minted!
 ## Result
 ![Image of NFT.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_078.png)
 ![Image of NFT.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_079.png)
-Source: https://github.com/ubinix-warun/substrate-node-template/tree/add-nft-pallet
+* Source: https://github.com/ubinix-warun/substrate-node-template/tree/add-nft-pallet
 
 # 15. [INTERMEDIATE CHALLENGE] FRAME Development 
 
@@ -366,7 +358,19 @@ open front, call pallet! tunaLedger
 
 ## Result
 ![Image of Tuna.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_080.png)
-Source Node: https://github.com/ubinix-warun/substrate-node-template/tree/frame-development
-Source Front: https://github.com/ubinix-warun/substrate-front-end-template/tree/frame-development
+* Source Node: https://github.com/ubinix-warun/substrate-node-template/tree/frame-development
+* Source Front: https://github.com/ubinix-warun/substrate-front-end-template/tree/frame-development
 
 
+# 16. [INTERMEDIATE CHALLENGE] FRAME Multisig 
+
+```
+./node-template --dev --tmp
+
+```
+
+## Result
+![Image of Tuna.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_081.png)
+![Image of Tuna.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_082.png)
+* Source Node: https://github.com/ubinix-warun/substrate-node-template/tree/add-multisig-pallet
+* Source Front: https://github.com/ubinix-warun/substrate-front-end-template/tree/add-multisig-pallet
