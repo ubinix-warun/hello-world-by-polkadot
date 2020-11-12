@@ -22,6 +22,9 @@
 # TODO
 - [x] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
 
+# T_T!
+
+- x [BEGINNER CHALLENGE] Run a private Substrate network
 
 # BIG-CARD
 - [ ] [ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/4/100023930
@@ -30,10 +33,6 @@
 - [ ] [ADVANCED CHALLENGE] Build A DApp https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/2/100023928
 
 
-# BYE!
-
-- x [BEGINNER CHALLENGE] Run a private Substrate network
-
 # SKETCH!!!
 
 # 14. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
@@ -41,10 +40,7 @@
 
 ```
 
-
 ```
-
-
 
 
 # 1x. [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
@@ -56,8 +52,6 @@ https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
 ```
 
 Source: https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/auction.sol
-
-
 
 
 ----------
@@ -110,7 +104,6 @@ https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/index.js
 https://westend.subscan.io/extrinsic/2663817-2
 
 
-
 --------------------------------------------------
 
 # 5. [BEGINNER CHALLENGE] Launch a local Substrate development chain
@@ -125,7 +118,6 @@ ubinix-warun => 0x7562696E69782D776172756E
 
 ## Result 
 ![Image of REMARK.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_065.png)
-
 
 
 --------------------------------------------------
@@ -208,9 +200,6 @@ Deploy an ERC20 token onto Moonbase Alpha
 --------------------------------------------------
 
 
---------------------------------------------------
-
-
 # 10. [ECOSYSTEM CHALLENGE] (Beginner) Build And Run A Local Phala Network
 
 ```
@@ -229,7 +218,7 @@ yarn dev
 ![Image of My Server.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_73.png)
 ![Image of My Server.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_74.png)
 
-
+* Twitter: https://twitter.com/ubinix_warun/status/1319980378187153409
 
 --------------------------------------------------
 
@@ -248,9 +237,7 @@ SpecVersion: 2
 ![Image of My Forkless.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_075.png)
 
 
-
 --------------------------------------------------
-
 
 
 # 12. [ECOSYSTEM CHALLENGE] Deploy On Moonbase Alpha Using Truffle
