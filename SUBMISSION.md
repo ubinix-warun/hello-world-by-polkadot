@@ -30,50 +30,6 @@
 - [ ] [ADVANCED CHALLENGE] Build A DApp https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/2/100023928
 
 
-# NOTE!
-
-
-
-# 18. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
-
-```
-
-# In terminal window 1: phala-node
-./target/release/phala-node --dev
-
-# In terminal window 2: pruntime
-cd pruntime/bin
-./app
-
-# In terminal window 3: phost
-./target/release/phost --dev
-
-----
-
-
-
-yarn 
-yarn dev
-
-```
-
-* UI: https://github.com/ubinix-warun/apps-ng/tree/helloworld
-* Node: https://github.com/ubinix-warun/phala-blockchain/tree/helloworld
-* Twitter: https://twitter.com/ubinix_warun/status/
-
-
-
-# 1x. [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
-
-https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
-
-```
-
-```
-
-* Source: https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/auction.sol
-
-
 --------------------------------------------------
 --------------------------------------------------
 
@@ -447,9 +403,47 @@ cargo +nightly contract generate-metadata
 
 --------------------------------------------------
 
+# 18. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
+
+```
+
+# In terminal window 1: phala-node
+./target/release/phala-node --dev
+
+# In terminal window 2: pruntime
+cd pruntime/bin
+./app
+
+# In terminal window 3: phost
+./target/release/phost --dev
+
+----
+
+cd apps-ng/
+git submodule update --init
+
+yarn 
+yarn dev
+
+```
+
+
+## Result
+![Image of My 1.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_088.png)
+![Image of My 2.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_089.png)
+![Image of My 3.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_090.png)
+![Image of My 4.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_091.png)
+![Image of My 5.](https://raw.githubusercontent.com/ubinix-warun/hello-world-by-polkadot/main/Selection_092.png)
+
+* UI: https://github.com/ubinix-warun/apps-ng/tree/helloworld
+* Node: https://github.com/ubinix-warun/phala-blockchain/tree/helloworld
+* Twitter: https://twitter.com/ubinix_warun/status/1326939563030241282
 
 
 
-
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
 
 
