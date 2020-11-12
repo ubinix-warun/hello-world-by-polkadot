@@ -1,4 +1,4 @@
-# DONE (17/19) 
+# DONE (18/18) 
 
 - [x] [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
 - [x] [BEGINNER CHALLENGE] Deploying Solidity Contract on Plasm Network V1
@@ -17,30 +17,50 @@
 - [x] [INTERMEDIATE CHALLENGE] FRAME Development 
 - [x] [INTERMEDIATE CHALLENGE] FRAME Multisig
 - [x] [INTERMEDIATE CHALLENGE] Smart Contracts - Write An ERC-20 Smart Contract With Ink!
-- [ ] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
+- [x] [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
+
+# More
+- .x. [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
+- .x. [BEGINNER CHALLENGE] Run a private Substrate network
 
 # TODO
-- [x] [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
-
-# T_T!
-
-- x [BEGINNER CHALLENGE] Run a private Substrate network
-
-# BIG-CARD
 - [ ] [ADVANCED CHALLENGE] REST APIs - Build A Transaction Fee Estimator https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/4/100023930
 - [ ] [ADVANCED CHALLENGE] REST APIs - Read an account's pending payouts https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/5/100023931
 - [ ] [ADVANCED CHALLENGE] Smart Contracts - Build A Charity Raffle https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/3/100023929
 - [ ] [ADVANCED CHALLENGE] Build A DApp https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/2/100023928
 
 
-# SKETCH!!!
+# NOTE!
 
-# 14. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
+
+# 18. [ECOSYSTEM CHALLENGE] (Advanced) Build The First Confidential Contract 
 
 ```
 
+# In terminal window 1: phala-node
+./target/release/phala-node --dev
+
+# In terminal window 2: pruntime
+cd pruntime/bin
+./app
+
+# In terminal window 3: phost
+./target/release/phost --dev
+
+----
+
+
+
+yarn 
+yarn dev
+
 ```
+
+* UI: https://github.com/ubinix-warun/apps-ng/tree/helloworld
+* Node: https://github.com/ubinix-warun/phala-blockchain/tree/helloworld
+* Twitter: https://twitter.com/ubinix_warun/status/
+
 
 
 # 1x. [INTERMEDIATE CHALLENGE] Deploying An Auction Solidity Contract On Plasm Network 
@@ -51,10 +71,11 @@ https://gitcoin.co/issue/staketechnologies/hello-world-by-polkadot/5/100023959
 
 ```
 
-Source: https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/auction.sol
+* Source: https://github.com/ubinix-warun/hello-world-by-polkadot/blob/main/auction.sol
 
 
-----------
+--------------------------------------------------
+--------------------------------------------------
 
 
 # 1. [BEGINNER CHALLENGE] Set An Identity On Kusama Or Polkadot's Development Version
